@@ -43,3 +43,6 @@ HEADERS  += \
 CONFIG += c++11
 
 FORMS +=
+
+DISTFILES += \
+    README.md
